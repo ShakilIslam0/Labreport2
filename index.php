@@ -51,7 +51,7 @@
                         <a class="nav-link btn btn-primary" href="register.php">Sign Up</a>
                     </li>
                     <li class="nav-item ml-0 ml-lg-4">
-                        <a class="nav-link btn btn-primary" href="components.html">Login</a>
+                        <a class="nav-link btn btn-primary" href="login.php">Login</a>
                     </li>
                 </ul>
             </div>
